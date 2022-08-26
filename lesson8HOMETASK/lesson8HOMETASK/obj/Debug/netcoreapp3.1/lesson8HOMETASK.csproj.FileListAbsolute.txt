@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\lesson8\lesson8HOMETASK\lesson8HOMETASK\bin\Debug\netcoreapp3.1\lesson8HOMETASK.exe
+C:\Users\ASUS\Desktop\lesson8\lesson8HOMETASK\lesson8HOMETASK\bin\Debug\netcoreapp3.1\lesson8HOMETASK.deps.json
+C:\Users\ASUS\Desktop\lesson8\lesson8HOMETASK\lesson8HOMETASK\bin\Debug\netcoreapp3.1\lesson8HOMETASK.runtimeconfig.json
+C:\Users\ASUS\Desktop\lesson8\lesson8HOMETASK\lesson8HOMETASK\bin\Debug\netcoreapp3.1\lesson8HOMETASK.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\lesson8\lesson8HOMETASK\lesson8HOMETASK\bin\Debug\netcoreapp3.1\lesson8HOMETASK.dll
+C:\Users\ASUS\Desktop\lesson8\lesson8HOMETASK\lesson8HOMETASK\bin\Debug\netcoreapp3.1\lesson8HOMETASK.pdb
+C:\Users\ASUS\Desktop\lesson8\lesson8HOMETASK\lesson8HOMETASK\obj\Debug\netcoreapp3.1\lesson8HOMETASK.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\lesson8\lesson8HOMETASK\lesson8HOMETASK\obj\Debug\netcoreapp3.1\lesson8HOMETASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\lesson8\lesson8HOMETASK\lesson8HOMETASK\obj\Debug\netcoreapp3.1\lesson8HOMETASK.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\lesson8\lesson8HOMETASK\lesson8HOMETASK\obj\Debug\netcoreapp3.1\lesson8HOMETASK.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\lesson8\lesson8HOMETASK\lesson8HOMETASK\obj\Debug\netcoreapp3.1\lesson8HOMETASK.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\lesson8\lesson8HOMETASK\lesson8HOMETASK\obj\Debug\netcoreapp3.1\lesson8HOMETASK.dll
+C:\Users\ASUS\Desktop\lesson8\lesson8HOMETASK\lesson8HOMETASK\obj\Debug\netcoreapp3.1\lesson8HOMETASK.pdb
+C:\Users\ASUS\Desktop\lesson8\lesson8HOMETASK\lesson8HOMETASK\obj\Debug\netcoreapp3.1\lesson8HOMETASK.genruntimeconfig.cache
